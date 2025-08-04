@@ -23,7 +23,8 @@ A simple Windows utility to keep your system or game from detecting you as AFK (
 
 - Windows 10/11
 - No external dependencies
-- No need for AutoHotKey or Java installed
+- No need for AutoHotKey 
+- Needs Java to be installed
 
 ## 📁 Notes
 
