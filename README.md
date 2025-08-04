@@ -4,18 +4,14 @@ A simple Windows utility to keep your system or game from detecting you as AFK (
 
 ## ⚙️ Features
 
-- ✅ Lightweight `.exe` utility
 - ⏱️ Starts with a **3...2...1** countdown before activation
 - 🔁 Simulates continuous keypress to prevent idle
 - 🧠 Simple interface with start/stop functionality
-- 🪟 100% standalone — no need to install anything extra
 
 ## 📦 How to Use
 
-1. **Download** the `.exe` file from the releases section.
-2. **Double-click** to run the application.
-3. Click **Start** — it begins after a 3-second countdown.
-4. Click **Stop** anytime to disable the script.
+1. **Download** the `.zip` file.
+2. Use an **IDE** to run the Code.
 
 > 🛑 Once started, your system may simulate pressing `W` continuously to avoid idle detection. Make sure you stop it when not needed.
 
